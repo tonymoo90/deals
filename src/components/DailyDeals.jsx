@@ -63,7 +63,7 @@ const DailyDeals = () => {
   const getRestaurantDeals = (restaurantName, type) => {
     return deals.filter(deal => 
       deal.Restaurants === restaurantName && 
-      deal.Time === type
+      (type === "Daily" ? deal.Time === "ALL" : deal.Time === type)
     );
   };
 
