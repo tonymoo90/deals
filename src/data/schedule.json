@@ -11,7 +11,7 @@
    "Name": "Warrens Ale House",
    "Type": "Daily",
    "Category": "All",
-   "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+   "Days": "Monday, Tuesday",
    "start": "11:00 AM",
    "end": "11:00 PM"
  },
