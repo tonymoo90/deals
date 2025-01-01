@@ -1,0 +1,6183 @@
+[
+ {
+   "Restaurants": "Gia Mia",
+   "Day": "Monday",
+   "Time": "All",
+   "Item": "Pizza",
+   "Price": 7
+ },
+ {
+   "Restaurants": "Warrens Ale House",
+   "Day": "Monday",
+   "Time": "All",
+   "Item": "Purple Smoke",
+   "Price": 8
+ },
+ {
+   "Restaurants": "Warrens Ale House",
+   "Day": "Tuesday",
+   "Time": "All",
+   "Item": "Margarita",
+   "Price": 6
+ },
+ {
+   "Restaurants": "Warrens Ale House",
+   "Day": "Tuesday",
+   "Time": "All",
+   "Item": "Tacos",
+   "Price": 4
+ },
+ {
+   "Restaurants": "Gia Mia",
+   "Day": "Monday",
+   "Time": "Lunch",
+   "Item": "pizza, salad and drink",
+   "Price": 13
+ },
+ {
+   "Restaurants": "Gia Mia",
+   "Day": "Tuesday",
+   "Time": "Lunch",
+   "Item": "pizza, salad and drink",
+   "Price": 13
+ },
+ {
+   "Restaurants": "Gia Mia",
+   "Day": "Wednesday",
+   "Time": "Lunch",
+   "Item": "pizza, salad and drink",
+   "Price": 13
+ },
+ {
+   "Restaurants": "Gia Mia",
+   "Day": "Thursday",
+   "Time": "Lunch",
+   "Item": "pizza, salad and drink",
+   "Price": 13
+ },
+ {
+   "Restaurants": "Gia Mia",
+   "Day": "Friday",
+   "Time": "Lunch",
+   "Item": "pizza, salad and drink",
+   "Price": 13
+ },
+ {
+   "Restaurants": "Gia Mia",
+   "Day": "Saturday",
+   "Time": "Lunch",
+   "Item": "pizza, salad and drink",
+   "Price": 13
+ },
+ {
+   "Restaurants": "Gia Mia",
+   "Day": "Sunday",
+   "Time": "Lunch",
+   "Item": "pizza, salad and drink",
+   "Price": 13
+ },
+ {
+   "Restaurants": "Maypole",
+   "Day": "Wednesday",
+   "Time": "All",
+   "Item": "1/2 off sandwiches",
+   "Price": 7
+ },
+ {
+   "Restaurants": "Uncle Julios",
+   "Day": "Tuesday",
+   "Time": "All",
+   "Item": "Taco Tuesday",
+   "Price": 12
+ },
+ {
+   "Restaurants": "Ginos East",
+   "Day": "Monday",
+   "Time": "Lunch",
+   "Item": "one topping pizza, salad and drink",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Ginos East",
+   "Day": "Tuesday",
+   "Time": "Lunch",
+   "Item": "one topping pizza, salad and drink",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Ginos East",
+   "Day": "Wednesday",
+   "Time": "Lunch",
+   "Item": "one topping pizza, salad and drink",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Ginos East",
+   "Day": "Thursday",
+   "Time": "Lunch",
+   "Item": "one topping pizza, salad and drink",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Ginos East",
+   "Day": "Friday",
+   "Time": "Lunch",
+   "Item": "one topping pizza, salad and drink",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Ground Level 105",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Bottled Beers",
+   "Price": null
+ },
+ {
+   "Restaurants": "Ground Level 105",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Select Wine by the glass",
+   "Price": null
+ },
+ {
+   "Restaurants": "Ground Level 105",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Martinis/Cocktails of the week",
+   "Price": 8
+ },
+ {
+   "Restaurants": "Ground Level 105",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "select bottled wines",
+   "Price": null
+ },
+ {
+   "Restaurants": "Ground Level 105",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "all small plates",
+   "Price": null
+ },
+ {
+   "Restaurants": "Ground Level 105",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Bottled Beers",
+   "Price": null
+ },
+ {
+   "Restaurants": "Ground Level 105",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Select Wine by the glass",
+   "Price": null
+ },
+ {
+   "Restaurants": "Ground Level 105",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Martinis/Cocktails of the week",
+   "Price": 8
+ },
+ {
+   "Restaurants": "Ground Level 105",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "select bottled wines",
+   "Price": null
+ },
+ {
+   "Restaurants": "Ground Level 105",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "all small plates",
+   "Price": null
+ },
+ {
+   "Restaurants": "Ground Level 106",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Bottled Beers",
+   "Price": null
+ },
+ {
+   "Restaurants": "Ground Level 107",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Select Wine by the glass",
+   "Price": null
+ },
+ {
+   "Restaurants": "Ground Level 108",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Martinis/Cocktails of the week",
+   "Price": 8
+ },
+ {
+   "Restaurants": "Ground Level 109",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "select bottled wines",
+   "Price": null
+ },
+ {
+   "Restaurants": "Ground Level 110",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "all small plates",
+   "Price": null
+ },
+ {
+   "Restaurants": "Ground Level 111",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Bottled Beers",
+   "Price": null
+ },
+ {
+   "Restaurants": "Ground Level 112",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Select Wine by the glass",
+   "Price": null
+ },
+ {
+   "Restaurants": "Ground Level 105",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Martinis/Cocktails of the week",
+   "Price": 8
+ },
+ {
+   "Restaurants": "Ground Level 105",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "select bottled wines",
+   "Price": null
+ },
+ {
+   "Restaurants": "Ground Level 105",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "all small plates",
+   "Price": null
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Weber Backyard Brew",
+   "Price": 5
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Onion Curls",
+   "Price": 5
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Soft Pretzels & Beer Cheese Dip",
+   "Price": 5
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Sangria",
+   "Price": 7
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Hand Shaken Margarita",
+   "Price": 7
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Tito's & You Call it",
+   "Price": 7
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Bourbon & Cola",
+   "Price": 7
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Spicy Sticky Ribs",
+   "Price": 7
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Crispy Brussles Sprouts",
+   "Price": 7
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Cheese Pizza",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Pepperoni Pizza",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "BBQ Chicken Pizzas",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Cabernet",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Pinot Noir",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Sauvignon Blanc",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Chardonnay",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Weber Backyard Brew",
+   "Price": 5
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Onion Curls",
+   "Price": 5
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Soft Pretzels & Beer Cheese Dip",
+   "Price": 5
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Sangria",
+   "Price": 7
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Hand Shaken Margarita",
+   "Price": 7
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Tito's & You Call it",
+   "Price": 7
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Bourbon & Cola",
+   "Price": 7
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Spicy Sticky Ribs",
+   "Price": 7
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Crispy Brussles Sprouts",
+   "Price": 7
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Cheese Pizza",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Pepperoni Pizza",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "BBQ Chicken Pizzas",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Cabernet",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Pinot Noir",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Sauvignon Blanc",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Chardonnay",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Weber Backyard Brew",
+   "Price": 5
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Onion Curls",
+   "Price": 5
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Soft Pretzels & Beer Cheese Dip",
+   "Price": 5
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Sangria",
+   "Price": 7
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Hand Shaken Margarita",
+   "Price": 7
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Tito's & You Call it",
+   "Price": 7
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Bourbon & Cola",
+   "Price": 7
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Spicy Sticky Ribs",
+   "Price": 7
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Crispy Brussles Sprouts",
+   "Price": 7
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Cheese Pizza",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Pepperoni Pizza",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "BBQ Chicken Pizzas",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Cabernet",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Pinot Noir",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Sauvignon Blanc",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Chardonnay",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Weber Backyard Brew",
+   "Price": 5
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Onion Curls",
+   "Price": 5
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Soft Pretzels & Beer Cheese Dip",
+   "Price": 5
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Sangria",
+   "Price": 7
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Hand Shaken Margarita",
+   "Price": 7
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Tito's & You Call it",
+   "Price": 7
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Bourbon & Cola",
+   "Price": 7
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Spicy Sticky Ribs",
+   "Price": 7
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Crispy Brussles Sprouts",
+   "Price": 7
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Cheese Pizza",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Pepperoni Pizza",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "BBQ Chicken Pizzas",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Cabernet",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Pinot Noir",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Sauvignon Blanc",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Chardonnay",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Weber Backyard Brew",
+   "Price": 5
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Onion Curls",
+   "Price": 5
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Soft Pretzels & Beer Cheese Dip",
+   "Price": 5
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Sangria",
+   "Price": 7
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Hand Shaken Margarita",
+   "Price": 7
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Tito's & You Call it",
+   "Price": 7
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Bourbon & Cola",
+   "Price": 7
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Spicy Sticky Ribs",
+   "Price": 7
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Crispy Brussles Sprouts",
+   "Price": 7
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Cheese Pizza",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Pepperoni Pizza",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "BBQ Chicken Pizzas",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Cabernet",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Pinot Noir",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Sauvignon Blanc",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Weber Grill",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Chardonnay",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Roarting Table Brewin Rice Lager",
+   "Price": 5
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Sake: Bushido/Way of the Warrior",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Select Wine by the glass",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Blood Orange Margarita",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Lychee Ube Martini",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Shishito Peppers",
+   "Price": 8
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Crispy Fried Squid",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Wagyu & Kimchi Dumplings",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Crispy Spicy Tuna Roll",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Hamachi Serrano Roll",
+   "Price": 12
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Assorted Sashimi Taco",
+   "Price": 8
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Flame Seared Salmon Nigiri",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Escolar Tataki",
+   "Price": 12
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Robata Grilled Scallop",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Korean Spiced Lamb Cutlet",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Japanese Style Fried Chicken",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Chicken Teriyaki",
+   "Price": 8
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Prime Beef Skewer",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Crispy Fried Eggplant",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Pork Belly",
+   "Price": 8
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Roarting Table Brewin Rice Lager",
+   "Price": 5
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Sake: Bushido/Way of the Warrior",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Select Wine by the glass",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Blood Orange Margarita",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Lychee Ube Martini",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Shishito Peppers",
+   "Price": 8
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Crispy Fried Squid",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Wagyu & Kimchi Dumplings",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Crispy Spicy Tuna Roll",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Hamachi Serrano Roll",
+   "Price": 12
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Assorted Sashimi Taco",
+   "Price": 8
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Flame Seared Salmon Nigiri",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Escolar Tataki",
+   "Price": 12
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Robata Grilled Scallop",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Korean Spiced Lamb Cutlet",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Japanese Style Fried Chicken",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Chicken Teriyaki",
+   "Price": 8
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Prime Beef Skewer",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Crispy Fried Eggplant",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Pork Belly",
+   "Price": 8
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Roarting Table Brewin Rice Lager",
+   "Price": 5
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Sake: Bushido/Way of the Warrior",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Select Wine by the glass",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Blood Orange Margarita",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Lychee Ube Martini",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Shishito Peppers",
+   "Price": 8
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Crispy Fried Squid",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Wagyu & Kimchi Dumplings",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Crispy Spicy Tuna Roll",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Hamachi Serrano Roll",
+   "Price": 12
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Assorted Sashimi Taco",
+   "Price": 8
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Flame Seared Salmon Nigiri",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Escolar Tataki",
+   "Price": 12
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Robata Grilled Scallop",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Korean Spiced Lamb Cutlet",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Japanese Style Fried Chicken",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Chicken Teriyaki",
+   "Price": 8
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Prime Beef Skewer",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Crispy Fried Eggplant",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Pork Belly",
+   "Price": 8
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Roarting Table Brewin Rice Lager",
+   "Price": 5
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Sake: Bushido/Way of the Warrior",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Select Wine by the glass",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Blood Orange Margarita",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Lychee Ube Martini",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Shishito Peppers",
+   "Price": 8
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Crispy Fried Squid",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Wagyu & Kimchi Dumplings",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Crispy Spicy Tuna Roll",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Hamachi Serrano Roll",
+   "Price": 12
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Assorted Sashimi Taco",
+   "Price": 8
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Flame Seared Salmon Nigiri",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Escolar Tataki",
+   "Price": 12
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Robata Grilled Scallop",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Korean Spiced Lamb Cutlet",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Japanese Style Fried Chicken",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Chicken Teriyaki",
+   "Price": 8
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Prime Beef Skewer",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Crispy Fried Eggplant",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Roka Akur",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Pork Belly",
+   "Price": 8
+ },
+ {
+   "Restaurants": "Redstone American Grill",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Wine",
+   "Price": null
+ },
+ {
+   "Restaurants": "Redstone American Grill",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Draft beer",
+   "Price": null
+ },
+ {
+   "Restaurants": "Redstone American Grill",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Single mix drinks",
+   "Price": null
+ },
+ {
+   "Restaurants": "Redstone American Grill",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "FRIED MAC AND CHEESE",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Redstone American Grill",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "CHEESESTEAK WONTONS",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Redstone American Grill",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "EDAMAME",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Redstone American Grill",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "SPICY SLIDERS",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Redstone American Grill",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "BUFFALO CHICKEN BITES",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Redstone American Grill",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "CHARCUTERIE CUP",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Redstone American Grill",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Wine",
+   "Price": null
+ },
+ {
+   "Restaurants": "Redstone American Grill",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Draft beer",
+   "Price": null
+ },
+ {
+   "Restaurants": "Redstone American Grill",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Single mix drinks",
+   "Price": null
+ },
+ {
+   "Restaurants": "Redstone American Grill",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "FRIED MAC AND CHEESE",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Redstone American Grill",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "CHEESESTEAK WONTONS",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Redstone American Grill",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "EDAMAME",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Redstone American Grill",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "SPICY SLIDERS",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Redstone American Grill",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "BUFFALO CHICKEN BITES",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Redstone American Grill",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "CHARCUTERIE CUP",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Redstone American Grill",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Wine",
+   "Price": null
+ },
+ {
+   "Restaurants": "Redstone American Grill",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Draft beer",
+   "Price": null
+ },
+ {
+   "Restaurants": "Redstone American Grill",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Single mix drinks",
+   "Price": null
+ },
+ {
+   "Restaurants": "Redstone American Grill",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "FRIED MAC AND CHEESE",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Redstone American Grill",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "CHEESESTEAK WONTONS",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Redstone American Grill",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "EDAMAME",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Redstone American Grill",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "SPICY SLIDERS",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Redstone American Grill",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "BUFFALO CHICKEN BITES",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Redstone American Grill",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "CHARCUTERIE CUP",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Redstone American Grill",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Wine",
+   "Price": null
+ },
+ {
+   "Restaurants": "Redstone American Grill",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Draft beer",
+   "Price": null
+ },
+ {
+   "Restaurants": "Redstone American Grill",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Single mix drinks",
+   "Price": null
+ },
+ {
+   "Restaurants": "Redstone American Grill",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "FRIED MAC AND CHEESE",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Redstone American Grill",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "CHEESESTEAK WONTONS",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Redstone American Grill",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "EDAMAME",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Redstone American Grill",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "SPICY SLIDERS",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Redstone American Grill",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "BUFFALO CHICKEN BITES",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Redstone American Grill",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "CHARCUTERIE CUP",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Redstone American Grill",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Wine",
+   "Price": null
+ },
+ {
+   "Restaurants": "Redstone American Grill",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Draft beer",
+   "Price": null
+ },
+ {
+   "Restaurants": "Redstone American Grill",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Single mix drinks",
+   "Price": null
+ },
+ {
+   "Restaurants": "Redstone American Grill",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "FRIED MAC AND CHEESE",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Redstone American Grill",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "CHEESESTEAK WONTONS",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Redstone American Grill",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "EDAMAME",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Redstone American Grill",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "SPICY SLIDERS",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Redstone American Grill",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "BUFFALO CHICKEN BITES",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Redstone American Grill",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "CHARCUTERIE CUP",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Brooks Kitchen & Tap",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "White Claw",
+   "Price": 5
+ },
+ {
+   "Restaurants": "Brooks Kitchen & Tap",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Krombacher Pilsner",
+   "Price": 5
+ },
+ {
+   "Restaurants": "Brooks Kitchen & Tap",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Table Red/Table WHite",
+   "Price": 5
+ },
+ {
+   "Restaurants": "Brooks Kitchen & Tap",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "White Claw",
+   "Price": 5
+ },
+ {
+   "Restaurants": "Brooks Kitchen & Tap",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Krombacher Pilsner",
+   "Price": 5
+ },
+ {
+   "Restaurants": "Brooks Kitchen & Tap",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Table Red/Table WHite",
+   "Price": 5
+ },
+ {
+   "Restaurants": "Brooks Kitchen & Tap",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "White Claw",
+   "Price": 5
+ },
+ {
+   "Restaurants": "Brooks Kitchen & Tap",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Krombacher Pilsner",
+   "Price": 5
+ },
+ {
+   "Restaurants": "Brooks Kitchen & Tap",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Table Red/Table WHite",
+   "Price": 5
+ },
+ {
+   "Restaurants": "Brooks Kitchen & Tap",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "White Claw",
+   "Price": 5
+ },
+ {
+   "Restaurants": "Brooks Kitchen & Tap",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Krombacher Pilsner",
+   "Price": 5
+ },
+ {
+   "Restaurants": "Brooks Kitchen & Tap",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Table Red/Table WHite",
+   "Price": 5
+ },
+ {
+   "Restaurants": "Brooks Kitchen & Tap",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "White Claw",
+   "Price": 5
+ },
+ {
+   "Restaurants": "Brooks Kitchen & Tap",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Krombacher Pilsner",
+   "Price": 5
+ },
+ {
+   "Restaurants": "Brooks Kitchen & Tap",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Table Red/Table WHite",
+   "Price": 5
+ },
+ {
+   "Restaurants": "Brooks Kitchen & Tap",
+   "Day": "Saturday",
+   "Time": "Happy Hour",
+   "Item": "White Claw",
+   "Price": 5
+ },
+ {
+   "Restaurants": "Brooks Kitchen & Tap",
+   "Day": "Saturday",
+   "Time": "Happy Hour",
+   "Item": "Krombacher Pilsner",
+   "Price": 5
+ },
+ {
+   "Restaurants": "Brooks Kitchen & Tap",
+   "Day": "Saturday",
+   "Time": "Happy Hour",
+   "Item": "Table Red/Table WHite",
+   "Price": 5
+ },
+ {
+   "Restaurants": "Brooks Kitchen & Tap",
+   "Day": "Sunday",
+   "Time": "Happy Hour",
+   "Item": "White Claw",
+   "Price": 5
+ },
+ {
+   "Restaurants": "Brooks Kitchen & Tap",
+   "Day": "Sunday",
+   "Time": "Happy Hour",
+   "Item": "Krombacher Pilsner",
+   "Price": 5
+ },
+ {
+   "Restaurants": "Brooks Kitchen & Tap",
+   "Day": "Sunday",
+   "Time": "Happy Hour",
+   "Item": "Table Red/Table WHite",
+   "Price": 5
+ },
+ {
+   "Restaurants": "Mortons",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Purple Pear",
+   "Price": 7
+ },
+ {
+   "Restaurants": "Mortons",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "CC Spritz",
+   "Price": 7
+ },
+ {
+   "Restaurants": "Mortons",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Black Tea AP",
+   "Price": 7
+ },
+ {
+   "Restaurants": "Mortons",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Iceberg Wedge Bites",
+   "Price": 8
+ },
+ {
+   "Restaurants": "Mortons",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Smoked Gouda Tater Bites",
+   "Price": 8
+ },
+ {
+   "Restaurants": "Mortons",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Empanadas",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Mortons",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Crispy Firecracker Shrimp",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Mortons",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Four Petite Filet Mignon",
+   "Price": 12
+ },
+ {
+   "Restaurants": "Mortons",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Hot Chicken Sandwich",
+   "Price": 18
+ },
+ {
+   "Restaurants": "Mortons",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Purple Pear",
+   "Price": 7
+ },
+ {
+   "Restaurants": "Mortons",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "CC Spritz",
+   "Price": 7
+ },
+ {
+   "Restaurants": "Mortons",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Black Tea AP",
+   "Price": 7
+ },
+ {
+   "Restaurants": "Mortons",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Iceberg Wedge Bites",
+   "Price": 8
+ },
+ {
+   "Restaurants": "Mortons",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Smoked Gouda Tater Bites",
+   "Price": 8
+ },
+ {
+   "Restaurants": "Mortons",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Empanadas",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Mortons",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Crispy Firecracker Shrimp",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Mortons",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Four Petite Filet Mignon",
+   "Price": 12
+ },
+ {
+   "Restaurants": "Mortons",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Hot Chicken Sandwich",
+   "Price": 18
+ },
+ {
+   "Restaurants": "Mortons",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Purple Pear",
+   "Price": 7
+ },
+ {
+   "Restaurants": "Mortons",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "CC Spritz",
+   "Price": 7
+ },
+ {
+   "Restaurants": "Mortons",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Black Tea AP",
+   "Price": 7
+ },
+ {
+   "Restaurants": "Mortons",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Iceberg Wedge Bites",
+   "Price": 8
+ },
+ {
+   "Restaurants": "Mortons",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Smoked Gouda Tater Bites",
+   "Price": 8
+ },
+ {
+   "Restaurants": "Mortons",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Empanadas",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Mortons",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Crispy Firecracker Shrimp",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Mortons",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Four Petite Filet Mignon",
+   "Price": 12
+ },
+ {
+   "Restaurants": "Mortons",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Hot Chicken Sandwich",
+   "Price": 18
+ },
+ {
+   "Restaurants": "Mortons",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Purple Pear",
+   "Price": 7
+ },
+ {
+   "Restaurants": "Mortons",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "CC Spritz",
+   "Price": 7
+ },
+ {
+   "Restaurants": "Mortons",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Black Tea AP",
+   "Price": 7
+ },
+ {
+   "Restaurants": "Mortons",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Iceberg Wedge Bites",
+   "Price": 8
+ },
+ {
+   "Restaurants": "Mortons",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Smoked Gouda Tater Bites",
+   "Price": 8
+ },
+ {
+   "Restaurants": "Mortons",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Empanadas",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Mortons",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Crispy Firecracker Shrimp",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Mortons",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Four Petite Filet Mignon",
+   "Price": 12
+ },
+ {
+   "Restaurants": "Mortons",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Hot Chicken Sandwich",
+   "Price": 18
+ },
+ {
+   "Restaurants": "Mortons",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Purple Pear",
+   "Price": 7
+ },
+ {
+   "Restaurants": "Mortons",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "CC Spritz",
+   "Price": 7
+ },
+ {
+   "Restaurants": "Mortons",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Black Tea AP",
+   "Price": 7
+ },
+ {
+   "Restaurants": "Mortons",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Iceberg Wedge Bites",
+   "Price": 8
+ },
+ {
+   "Restaurants": "Mortons",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Smoked Gouda Tater Bites",
+   "Price": 8
+ },
+ {
+   "Restaurants": "Mortons",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Empanadas",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Mortons",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Crispy Firecracker Shrimp",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Mortons",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Four Petite Filet Mignon",
+   "Price": 12
+ },
+ {
+   "Restaurants": "Mortons",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Hot Chicken Sandwich",
+   "Price": 18
+ },
+ {
+   "Restaurants": "Mortons",
+   "Day": "Sunday",
+   "Time": "Happy Hour",
+   "Item": "Purple Pear",
+   "Price": 7
+ },
+ {
+   "Restaurants": "Mortons",
+   "Day": "Sunday",
+   "Time": "Happy Hour",
+   "Item": "CC Spritz",
+   "Price": 7
+ },
+ {
+   "Restaurants": "Mortons",
+   "Day": "Sunday",
+   "Time": "Happy Hour",
+   "Item": "Black Tea AP",
+   "Price": 7
+ },
+ {
+   "Restaurants": "Mortons",
+   "Day": "Sunday",
+   "Time": "Happy Hour",
+   "Item": "Iceberg Wedge Bites",
+   "Price": 8
+ },
+ {
+   "Restaurants": "Mortons",
+   "Day": "Sunday",
+   "Time": "Happy Hour",
+   "Item": "Smoked Gouda Tater Bites",
+   "Price": 8
+ },
+ {
+   "Restaurants": "Mortons",
+   "Day": "Sunday",
+   "Time": "Happy Hour",
+   "Item": "Empanadas",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Mortons",
+   "Day": "Sunday",
+   "Time": "Happy Hour",
+   "Item": "Crispy Firecracker Shrimp",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Mortons",
+   "Day": "Sunday",
+   "Time": "Happy Hour",
+   "Item": "Four Petite Filet Mignon",
+   "Price": 12
+ },
+ {
+   "Restaurants": "Mortons",
+   "Day": "Sunday",
+   "Time": "Happy Hour",
+   "Item": "Hot Chicken Sandwich",
+   "Price": 18
+ },
+ {
+   "Restaurants": "Blanco",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Frozen Margarita",
+   "Price": 8
+ },
+ {
+   "Restaurants": "Blanco",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Frozen Paloma",
+   "Price": 8
+ },
+ {
+   "Restaurants": "Blanco",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Classic Margarita",
+   "Price": 8
+ },
+ {
+   "Restaurants": "Blanco",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Sangria",
+   "Price": 8
+ },
+ {
+   "Restaurants": "Blanco",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Wine",
+   "Price": 7
+ },
+ {
+   "Restaurants": "Blanco",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Beer",
+   "Price": 5
+ },
+ {
+   "Restaurants": "Blanco",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Guacamole",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Blanco",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Warm Queso",
+   "Price": 8
+ },
+ {
+   "Restaurants": "Blanco",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "ROASTED POBLANO CHILE\n& TOMATO CRISP",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Blanco",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "NACHOS CON QUESO BLANCO",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Blanco",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "GREEN CHILE SMASH BURGER",
+   "Price": 14
+ },
+ {
+   "Restaurants": "Blanco",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Tacos",
+   "Price": 7
+ },
+ {
+   "Restaurants": "Blanco",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Frozen Margarita",
+   "Price": 8
+ },
+ {
+   "Restaurants": "Blanco",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Frozen Paloma",
+   "Price": 8
+ },
+ {
+   "Restaurants": "Blanco",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Classic Margarita",
+   "Price": 8
+ },
+ {
+   "Restaurants": "Blanco",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Sangria",
+   "Price": 8
+ },
+ {
+   "Restaurants": "Blanco",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Wine",
+   "Price": 7
+ },
+ {
+   "Restaurants": "Blanco",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Beer",
+   "Price": 5
+ },
+ {
+   "Restaurants": "Blanco",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Guacamole",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Blanco",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Warm Queso",
+   "Price": 8
+ },
+ {
+   "Restaurants": "Blanco",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "ROASTED POBLANO CHILE\n& TOMATO CRISP",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Blanco",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "NACHOS CON QUESO BLANCO",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Blanco",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "GREEN CHILE SMASH BURGER",
+   "Price": 14
+ },
+ {
+   "Restaurants": "Blanco",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Tacos",
+   "Price": 7
+ },
+ {
+   "Restaurants": "Blanco",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Frozen Margarita",
+   "Price": 8
+ },
+ {
+   "Restaurants": "Blanco",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Frozen Paloma",
+   "Price": 8
+ },
+ {
+   "Restaurants": "Blanco",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Classic Margarita",
+   "Price": 8
+ },
+ {
+   "Restaurants": "Blanco",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Sangria",
+   "Price": 8
+ },
+ {
+   "Restaurants": "Blanco",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Wine",
+   "Price": 7
+ },
+ {
+   "Restaurants": "Blanco",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Beer",
+   "Price": 5
+ },
+ {
+   "Restaurants": "Blanco",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Guacamole",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Blanco",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Warm Queso",
+   "Price": 8
+ },
+ {
+   "Restaurants": "Blanco",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "ROASTED POBLANO CHILE\n& TOMATO CRISP",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Blanco",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "NACHOS CON QUESO BLANCO",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Blanco",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "GREEN CHILE SMASH BURGER",
+   "Price": 14
+ },
+ {
+   "Restaurants": "Blanco",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Tacos",
+   "Price": 7
+ },
+ {
+   "Restaurants": "Blanco",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Frozen Margarita",
+   "Price": 8
+ },
+ {
+   "Restaurants": "Blanco",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Frozen Paloma",
+   "Price": 8
+ },
+ {
+   "Restaurants": "Blanco",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Classic Margarita",
+   "Price": 8
+ },
+ {
+   "Restaurants": "Blanco",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Sangria",
+   "Price": 8
+ },
+ {
+   "Restaurants": "Blanco",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Wine",
+   "Price": 7
+ },
+ {
+   "Restaurants": "Blanco",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Beer",
+   "Price": 5
+ },
+ {
+   "Restaurants": "Blanco",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Guacamole",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Blanco",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Warm Queso",
+   "Price": 8
+ },
+ {
+   "Restaurants": "Blanco",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "ROASTED POBLANO CHILE\n& TOMATO CRISP",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Blanco",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "NACHOS CON QUESO BLANCO",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Blanco",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "GREEN CHILE SMASH BURGER",
+   "Price": 14
+ },
+ {
+   "Restaurants": "Blanco",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Tacos",
+   "Price": 7
+ },
+ {
+   "Restaurants": "Blanco",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Frozen Margarita",
+   "Price": 8
+ },
+ {
+   "Restaurants": "Blanco",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Frozen Paloma",
+   "Price": 8
+ },
+ {
+   "Restaurants": "Blanco",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Classic Margarita",
+   "Price": 8
+ },
+ {
+   "Restaurants": "Blanco",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Sangria",
+   "Price": 8
+ },
+ {
+   "Restaurants": "Blanco",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Wine",
+   "Price": 7
+ },
+ {
+   "Restaurants": "Blanco",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Beer",
+   "Price": 5
+ },
+ {
+   "Restaurants": "Blanco",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Guacamole",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Blanco",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Warm Queso",
+   "Price": 8
+ },
+ {
+   "Restaurants": "Blanco",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "ROASTED POBLANO CHILE\n& TOMATO CRISP",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Blanco",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "NACHOS CON QUESO BLANCO",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Blanco",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "GREEN CHILE SMASH BURGER",
+   "Price": 14
+ },
+ {
+   "Restaurants": "Blanco",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Tacos",
+   "Price": 7
+ },
+ {
+   "Restaurants": "Ditkas",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "CHEESEBURGER SLIDERS",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Ditkas",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "BUFFALO CHICKEN SLIDERS",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Ditkas",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "CORNED BEEF SLIDERS",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Ditkas",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "RHODE ISLAND CALAMARI",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Ditkas",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "JUMBO SHRIMP COCKTAIL",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Ditkas",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "COACH'S POT ROAST NACHOS",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Ditkas",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "OYSTERS ON THE HALF SHELL",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Ditkas",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "OYSTER SHOOTERS",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Ditkas",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Titos Martinis",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Ditkas",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Wine by the glass",
+   "Price": 8
+ },
+ {
+   "Restaurants": "Ditkas",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "CHEESEBURGER SLIDERS",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Ditkas",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "BUFFALO CHICKEN SLIDERS",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Ditkas",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "CORNED BEEF SLIDERS",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Ditkas",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "RHODE ISLAND CALAMARI",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Ditkas",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "JUMBO SHRIMP COCKTAIL",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Ditkas",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "COACH'S POT ROAST NACHOS",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Ditkas",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "OYSTERS ON THE HALF SHELL",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Ditkas",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "OYSTER SHOOTERS",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Ditkas",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Titos Martinis",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Ditkas",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Wine by the glass",
+   "Price": 8
+ },
+ {
+   "Restaurants": "Ditkas",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "CHEESEBURGER SLIDERS",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Ditkas",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "BUFFALO CHICKEN SLIDERS",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Ditkas",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "CORNED BEEF SLIDERS",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Ditkas",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "RHODE ISLAND CALAMARI",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Ditkas",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "JUMBO SHRIMP COCKTAIL",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Ditkas",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "COACH'S POT ROAST NACHOS",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Ditkas",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "OYSTERS ON THE HALF SHELL",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Ditkas",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "OYSTER SHOOTERS",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Ditkas",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Titos Martinis",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Ditkas",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Wine by the glass",
+   "Price": 8
+ },
+ {
+   "Restaurants": "Ditkas",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "CHEESEBURGER SLIDERS",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Ditkas",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "BUFFALO CHICKEN SLIDERS",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Ditkas",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "CORNED BEEF SLIDERS",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Ditkas",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "RHODE ISLAND CALAMARI",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Ditkas",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "JUMBO SHRIMP COCKTAIL",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Ditkas",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "COACH'S POT ROAST NACHOS",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Ditkas",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "OYSTERS ON THE HALF SHELL",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Ditkas",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "OYSTER SHOOTERS",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Ditkas",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Titos Martinis",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Ditkas",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Wine by the glass",
+   "Price": 8
+ },
+ {
+   "Restaurants": "Ditkas",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "CHEESEBURGER SLIDERS",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Ditkas",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "BUFFALO CHICKEN SLIDERS",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Ditkas",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "CORNED BEEF SLIDERS",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Ditkas",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "RHODE ISLAND CALAMARI",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Ditkas",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "JUMBO SHRIMP COCKTAIL",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Ditkas",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "COACH'S POT ROAST NACHOS",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Ditkas",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "OYSTERS ON THE HALF SHELL",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Ditkas",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "OYSTER SHOOTERS",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Ditkas",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Titos Martinis",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Ditkas",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Wine by the glass",
+   "Price": 8
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "CHICKEN SATAY",
+   "Price": 3
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "SHRIMP TACO",
+   "Price": 3
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "EDAMAME",
+   "Price": 3
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "ANGRY EDAMAME",
+   "Price": 3
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "KONA SLIDERS®",
+   "Price": 6
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "MACADAMIA POPCORN CHICKEN",
+   "Price": 6
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "BBQ FLATBREAD",
+   "Price": 6
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "POTSTICKERS",
+   "Price": 6
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "MEATBALLS*",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "CHICKEN & SHRIMP LETTUCE wraps",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "SPICY SHRIMP TEMPURA*",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "AVOCADO EGG ROLL",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "SUSHI ROLL**",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "KONA BIG WAVE",
+   "Price": 3
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "COORS LIGHT",
+   "Price": 3
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "TRULY HARD SELTZER*",
+   "Price": 3
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "SHOT OF SAKÉ*",
+   "Price": 3
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "KONA MARGARITA",
+   "Price": 6
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "RED SANGRIA",
+   "Price": 6
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "WINE",
+   "Price": 6
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "MINI BOMBER",
+   "Price": 6
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "WATERMELON or SKINNY MARGARITA",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "OLD FASHIONED",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "MOSCOW MULE",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "MOJITO",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "SAKE BOMBER",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Happy Hour Surf & Turf",
+   "Price": 14
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "CHICKEN SATAY",
+   "Price": 3
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "SHRIMP TACO",
+   "Price": 3
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "EDAMAME",
+   "Price": 3
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "ANGRY EDAMAME",
+   "Price": 3
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "KONA SLIDERS®",
+   "Price": 6
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "MACADAMIA POPCORN CHICKEN",
+   "Price": 6
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "BBQ FLATBREAD",
+   "Price": 6
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "POTSTICKERS",
+   "Price": 6
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "MEATBALLS*",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "CHICKEN & SHRIMP LETTUCE wraps",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "SPICY SHRIMP TEMPURA*",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "AVOCADO EGG ROLL",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "SUSHI ROLL**",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "KONA BIG WAVE",
+   "Price": 3
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "COORS LIGHT",
+   "Price": 3
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "TRULY HARD SELTZER*",
+   "Price": 3
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "SHOT OF SAKÉ*",
+   "Price": 3
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "KONA MARGARITA",
+   "Price": 6
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "RED SANGRIA",
+   "Price": 6
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "WINE",
+   "Price": 6
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "MINI BOMBER",
+   "Price": 6
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "WATERMELON or SKINNY MARGARITA",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "OLD FASHIONED",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "MOSCOW MULE",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "MOJITO",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "SAKE BOMBER",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Happy Hour Surf & Turf",
+   "Price": 14
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "CHICKEN SATAY",
+   "Price": 3
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "SHRIMP TACO",
+   "Price": 3
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "EDAMAME",
+   "Price": 3
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "ANGRY EDAMAME",
+   "Price": 3
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "KONA SLIDERS®",
+   "Price": 6
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "MACADAMIA POPCORN CHICKEN",
+   "Price": 6
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "BBQ FLATBREAD",
+   "Price": 6
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "POTSTICKERS",
+   "Price": 6
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "MEATBALLS*",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "CHICKEN & SHRIMP LETTUCE wraps",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "SPICY SHRIMP TEMPURA*",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "AVOCADO EGG ROLL",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "SUSHI ROLL**",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "KONA BIG WAVE",
+   "Price": 3
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "COORS LIGHT",
+   "Price": 3
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "TRULY HARD SELTZER*",
+   "Price": 3
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "SHOT OF SAKÉ*",
+   "Price": 3
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "KONA MARGARITA",
+   "Price": 6
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "RED SANGRIA",
+   "Price": 6
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "WINE",
+   "Price": 6
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "MINI BOMBER",
+   "Price": 6
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "WATERMELON or SKINNY MARGARITA",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "OLD FASHIONED",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "MOSCOW MULE",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "MOJITO",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "SAKE BOMBER",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Happy Hour Surf & Turf",
+   "Price": 14
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "CHICKEN SATAY",
+   "Price": 3
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "SHRIMP TACO",
+   "Price": 3
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "EDAMAME",
+   "Price": 3
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "ANGRY EDAMAME",
+   "Price": 3
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "KONA SLIDERS®",
+   "Price": 6
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "MACADAMIA POPCORN CHICKEN",
+   "Price": 6
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "BBQ FLATBREAD",
+   "Price": 6
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "POTSTICKERS",
+   "Price": 6
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "MEATBALLS*",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "CHICKEN & SHRIMP LETTUCE wraps",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "SPICY SHRIMP TEMPURA*",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "AVOCADO EGG ROLL",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "SUSHI ROLL**",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "KONA BIG WAVE",
+   "Price": 3
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "COORS LIGHT",
+   "Price": 3
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "TRULY HARD SELTZER*",
+   "Price": 3
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "SHOT OF SAKÉ*",
+   "Price": 3
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "KONA MARGARITA",
+   "Price": 6
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "RED SANGRIA",
+   "Price": 6
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "WINE",
+   "Price": 6
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "MINI BOMBER",
+   "Price": 6
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "WATERMELON or SKINNY MARGARITA",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "OLD FASHIONED",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "MOSCOW MULE",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "MOJITO",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "SAKE BOMBER",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Happy Hour Surf & Turf",
+   "Price": 14
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "CHICKEN SATAY",
+   "Price": 3
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "SHRIMP TACO",
+   "Price": 3
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "EDAMAME",
+   "Price": 3
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "ANGRY EDAMAME",
+   "Price": 3
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "KONA SLIDERS®",
+   "Price": 6
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "MACADAMIA POPCORN CHICKEN",
+   "Price": 6
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "BBQ FLATBREAD",
+   "Price": 6
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "POTSTICKERS",
+   "Price": 6
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "MEATBALLS*",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "CHICKEN & SHRIMP LETTUCE wraps",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "SPICY SHRIMP TEMPURA*",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "AVOCADO EGG ROLL",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "SUSHI ROLL**",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "KONA BIG WAVE",
+   "Price": 3
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "COORS LIGHT",
+   "Price": 3
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "TRULY HARD SELTZER*",
+   "Price": 3
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "SHOT OF SAKÉ*",
+   "Price": 3
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "KONA MARGARITA",
+   "Price": 6
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "RED SANGRIA",
+   "Price": 6
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "WINE",
+   "Price": 6
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "MINI BOMBER",
+   "Price": 6
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "WATERMELON or SKINNY MARGARITA",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "OLD FASHIONED",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "MOSCOW MULE",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "MOJITO",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "SAKE BOMBER",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Kona Grill",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Happy Hour Surf & Turf",
+   "Price": 14
+ },
+ {
+   "Restaurants": "PF Changs",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "CHANG’S LETTUCE WRAPS ",
+   "Price": 10
+ },
+ {
+   "Restaurants": "PF Changs",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "CRISPY GREEN BEANS",
+   "Price": 10
+ },
+ {
+   "Restaurants": "PF Changs",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "CRAB WONTONS",
+   "Price": 10
+ },
+ {
+   "Restaurants": "PF Changs",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "DUMPLINGS",
+   "Price": 10
+ },
+ {
+   "Restaurants": "PF Changs",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "HA-CHI 5251 PILSNER",
+   "Price": 5
+ },
+ {
+   "Restaurants": "PF Changs",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "DOMESTICS ON DRAFT",
+   "Price": 5
+ },
+ {
+   "Restaurants": "PF Changs",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "14 HANDS MERLOT",
+   "Price": 5
+ },
+ {
+   "Restaurants": "PF Changs",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "14 HANDS CHARDONNAY",
+   "Price": 5
+ },
+ {
+   "Restaurants": "PF Changs",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "PINK LOTUS COSMO",
+   "Price": 5
+ },
+ {
+   "Restaurants": "PF Changs",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "ZEN MARGARITA",
+   "Price": 5
+ },
+ {
+   "Restaurants": "PF Changs",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "SELECT WELL DRINKS",
+   "Price": 5
+ },
+ {
+   "Restaurants": "PF Changs",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "CHANG’S LETTUCE WRAPS ",
+   "Price": 10
+ },
+ {
+   "Restaurants": "PF Changs",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "CRISPY GREEN BEANS",
+   "Price": 10
+ },
+ {
+   "Restaurants": "PF Changs",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "CRAB WONTONS",
+   "Price": 10
+ },
+ {
+   "Restaurants": "PF Changs",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "DUMPLINGS",
+   "Price": 10
+ },
+ {
+   "Restaurants": "PF Changs",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "HA-CHI 5251 PILSNER",
+   "Price": 5
+ },
+ {
+   "Restaurants": "PF Changs",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "DOMESTICS ON DRAFT",
+   "Price": 5
+ },
+ {
+   "Restaurants": "PF Changs",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "14 HANDS MERLOT",
+   "Price": 5
+ },
+ {
+   "Restaurants": "PF Changs",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "14 HANDS CHARDONNAY",
+   "Price": 5
+ },
+ {
+   "Restaurants": "PF Changs",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "PINK LOTUS COSMO",
+   "Price": 5
+ },
+ {
+   "Restaurants": "PF Changs",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "ZEN MARGARITA",
+   "Price": 5
+ },
+ {
+   "Restaurants": "PF Changs",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "SELECT WELL DRINKS",
+   "Price": 5
+ },
+ {
+   "Restaurants": "PF Changs",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "CHANG’S LETTUCE WRAPS ",
+   "Price": 10
+ },
+ {
+   "Restaurants": "PF Changs",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "CRISPY GREEN BEANS",
+   "Price": 10
+ },
+ {
+   "Restaurants": "PF Changs",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "CRAB WONTONS",
+   "Price": 10
+ },
+ {
+   "Restaurants": "PF Changs",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "DUMPLINGS",
+   "Price": 10
+ },
+ {
+   "Restaurants": "PF Changs",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "HA-CHI 5251 PILSNER",
+   "Price": 5
+ },
+ {
+   "Restaurants": "PF Changs",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "DOMESTICS ON DRAFT",
+   "Price": 5
+ },
+ {
+   "Restaurants": "PF Changs",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "14 HANDS MERLOT",
+   "Price": 5
+ },
+ {
+   "Restaurants": "PF Changs",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "14 HANDS CHARDONNAY",
+   "Price": 5
+ },
+ {
+   "Restaurants": "PF Changs",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "PINK LOTUS COSMO",
+   "Price": 5
+ },
+ {
+   "Restaurants": "PF Changs",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "ZEN MARGARITA",
+   "Price": 5
+ },
+ {
+   "Restaurants": "PF Changs",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "SELECT WELL DRINKS",
+   "Price": 5
+ },
+ {
+   "Restaurants": "PF Changs",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "CHANG’S LETTUCE WRAPS ",
+   "Price": 10
+ },
+ {
+   "Restaurants": "PF Changs",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "CRISPY GREEN BEANS",
+   "Price": 10
+ },
+ {
+   "Restaurants": "PF Changs",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "CRAB WONTONS",
+   "Price": 10
+ },
+ {
+   "Restaurants": "PF Changs",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "DUMPLINGS",
+   "Price": 10
+ },
+ {
+   "Restaurants": "PF Changs",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "HA-CHI 5251 PILSNER",
+   "Price": 5
+ },
+ {
+   "Restaurants": "PF Changs",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "DOMESTICS ON DRAFT",
+   "Price": 5
+ },
+ {
+   "Restaurants": "PF Changs",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "14 HANDS MERLOT",
+   "Price": 5
+ },
+ {
+   "Restaurants": "PF Changs",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "14 HANDS CHARDONNAY",
+   "Price": 5
+ },
+ {
+   "Restaurants": "PF Changs",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "PINK LOTUS COSMO",
+   "Price": 5
+ },
+ {
+   "Restaurants": "PF Changs",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "ZEN MARGARITA",
+   "Price": 5
+ },
+ {
+   "Restaurants": "PF Changs",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "SELECT WELL DRINKS",
+   "Price": 5
+ },
+ {
+   "Restaurants": "PF Changs",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "CHANG’S LETTUCE WRAPS ",
+   "Price": 10
+ },
+ {
+   "Restaurants": "PF Changs",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "CRISPY GREEN BEANS",
+   "Price": 10
+ },
+ {
+   "Restaurants": "PF Changs",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "CRAB WONTONS",
+   "Price": 10
+ },
+ {
+   "Restaurants": "PF Changs",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "DUMPLINGS",
+   "Price": 10
+ },
+ {
+   "Restaurants": "PF Changs",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "HA-CHI 5251 PILSNER",
+   "Price": 5
+ },
+ {
+   "Restaurants": "PF Changs",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "DOMESTICS ON DRAFT",
+   "Price": 5
+ },
+ {
+   "Restaurants": "PF Changs",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "14 HANDS MERLOT",
+   "Price": 5
+ },
+ {
+   "Restaurants": "PF Changs",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "14 HANDS CHARDONNAY",
+   "Price": 5
+ },
+ {
+   "Restaurants": "PF Changs",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "PINK LOTUS COSMO",
+   "Price": 5
+ },
+ {
+   "Restaurants": "PF Changs",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "ZEN MARGARITA",
+   "Price": 5
+ },
+ {
+   "Restaurants": "PF Changs",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "SELECT WELL DRINKS",
+   "Price": 5
+ },
+ {
+   "Restaurants": "Uncles Julios",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "All drinks",
+   "Price": null
+ },
+ {
+   "Restaurants": "Uncles Julios",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "All drinks",
+   "Price": null
+ },
+ {
+   "Restaurants": "Uncles Julios",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "All drinks",
+   "Price": null
+ },
+ {
+   "Restaurants": "Uncles Julios",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "All drinks",
+   "Price": null
+ },
+ {
+   "Restaurants": "Uncles Julios",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "All drinks",
+   "Price": null
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Four Cheese Spinach Dip",
+   "Price": 16
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Miguel's Queso Dip",
+   "Price": 14
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Poke Nachos*",
+   "Price": 16.5
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Chicken Nachos",
+   "Price": 16
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Crispy Brussels Sprouts",
+   "Price": 11
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Chicken Lettuce Wraps",
+   "Price": 15
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Hand-Battered Chicken Tenders",
+   "Price": 14.5
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Wisconsin Fried Cheese Curds",
+   "Price": 13
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Classic Sliders*",
+   "Price": 14.5
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Blackened Ahi Sashimi*",
+   "Price": 16.5
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Fried Calamari",
+   "Price": 15
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Boneless Wings",
+   "Price": 16.5
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Gardein® Wings",
+   "Price": 15
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Pizzas",
+   "Price": 16
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Beer",
+   "Price": null
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Wine",
+   "Price": null
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Cocktails",
+   "Price": null
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Four Cheese Spinach Dip",
+   "Price": 16
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Miguel's Queso Dip",
+   "Price": 14
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Poke Nachos*",
+   "Price": 16.5
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Chicken Nachos",
+   "Price": 16
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Crispy Brussels Sprouts",
+   "Price": 11
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Chicken Lettuce Wraps",
+   "Price": 15
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Hand-Battered Chicken Tenders",
+   "Price": 14.5
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Wisconsin Fried Cheese Curds",
+   "Price": 13
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Classic Sliders*",
+   "Price": 14.5
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Blackened Ahi Sashimi*",
+   "Price": 16.5
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Fried Calamari",
+   "Price": 15
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Boneless Wings",
+   "Price": 16.5
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Gardein® Wings",
+   "Price": 15
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Pizzas",
+   "Price": 16
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Beer",
+   "Price": null
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Wine",
+   "Price": null
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Cocktails",
+   "Price": null
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Four Cheese Spinach Dip",
+   "Price": 16
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Miguel's Queso Dip",
+   "Price": 14
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Poke Nachos*",
+   "Price": 16.5
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Chicken Nachos",
+   "Price": 16
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Crispy Brussels Sprouts",
+   "Price": 11
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Chicken Lettuce Wraps",
+   "Price": 15
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Hand-Battered Chicken Tenders",
+   "Price": 14.5
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Wisconsin Fried Cheese Curds",
+   "Price": 13
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Classic Sliders*",
+   "Price": 14.5
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Blackened Ahi Sashimi*",
+   "Price": 16.5
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Fried Calamari",
+   "Price": 15
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Boneless Wings",
+   "Price": 16.5
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Gardein® Wings",
+   "Price": 15
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Pizzas",
+   "Price": 16
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Beer",
+   "Price": null
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Wine",
+   "Price": null
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Cocktails",
+   "Price": null
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Four Cheese Spinach Dip",
+   "Price": 16
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Miguel's Queso Dip",
+   "Price": 14
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Poke Nachos*",
+   "Price": 16.5
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Chicken Nachos",
+   "Price": 16
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Crispy Brussels Sprouts",
+   "Price": 11
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Chicken Lettuce Wraps",
+   "Price": 15
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Hand-Battered Chicken Tenders",
+   "Price": 14.5
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Wisconsin Fried Cheese Curds",
+   "Price": 13
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Classic Sliders*",
+   "Price": 14.5
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Blackened Ahi Sashimi*",
+   "Price": 16.5
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Fried Calamari",
+   "Price": 15
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Boneless Wings",
+   "Price": 16.5
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Gardein® Wings",
+   "Price": 15
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "All Pizzas",
+   "Price": 16
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Beer",
+   "Price": null
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Wine",
+   "Price": null
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Cocktails",
+   "Price": null
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Four Cheese Spinach Dip",
+   "Price": 16
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Miguel's Queso Dip",
+   "Price": 14
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Poke Nachos*",
+   "Price": 16.5
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Chicken Nachos",
+   "Price": 16
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Crispy Brussels Sprouts",
+   "Price": 11
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Chicken Lettuce Wraps",
+   "Price": 15
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Hand-Battered Chicken Tenders",
+   "Price": 14.5
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Wisconsin Fried Cheese Curds",
+   "Price": 13
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Classic Sliders*",
+   "Price": 14.5
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Blackened Ahi Sashimi*",
+   "Price": 16.5
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Fried Calamari",
+   "Price": 15
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Boneless Wings",
+   "Price": 16.5
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Gardein® Wings",
+   "Price": 15
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "All Pizzas",
+   "Price": 16
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Beer",
+   "Price": null
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Wine",
+   "Price": null
+ },
+ {
+   "Restaurants": "Yardhouse",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Cocktails",
+   "Price": null
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Roadside Sliders",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Tex Mex Eggrolls",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Fried Calamari",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Factory Nachos",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Pretzel Bites with Cheddar Cheese Fondue",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Hot Spinach and Cheese Dip",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Sweet Corn Tamale Cakes**",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Avocado Eggrolls",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Chicken Pot Stickers",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Thai Chili Shrimp",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Buffalo Blasts®",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Housemade Meatballs",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Fried Macaroni and Cheese",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Happy Hour",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Street Corn",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Korean Fried Cauliflower",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Stuffed Mushrooms",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Crispy Brussels Sprouts",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Cheeseburger Spring Rolls",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Crispy Fried Cheese",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Chicken Taquitos",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Avocado Tacos",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Fried Zucchini",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Beet and Avocado Salad**",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Crispy Crab Bites",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Crab Wontons",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Mojito",
+   "Price": 8.5
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Long Island Iced Tea",
+   "Price": 8.5
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Margarita",
+   "Price": 8.5
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "J.W.'s Pink Lemonade™",
+   "Price": 8.5
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Whiskey Smash",
+   "Price": 8.5
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Selected Well Drinks",
+   "Price": 8.5
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Selected Wines by the Glass",
+   "Price": 8.5
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Selected Draft Beers",
+   "Price": 5
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Monday",
+   "Time": "Happy Hour",
+   "Item": "Selected Bottled Beers",
+   "Price": 4
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Roadside Sliders",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Tex Mex Eggrolls",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Fried Calamari",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Factory Nachos",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Pretzel Bites with Cheddar Cheese Fondue",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Hot Spinach and Cheese Dip",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Sweet Corn Tamale Cakes**",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Avocado Eggrolls",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Chicken Pot Stickers",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Thai Chili Shrimp",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Buffalo Blasts®",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Housemade Meatballs",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Fried Macaroni and Cheese",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Happy Hour",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Street Corn",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Korean Fried Cauliflower",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Stuffed Mushrooms",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Crispy Brussels Sprouts",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Cheeseburger Spring Rolls",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Crispy Fried Cheese",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Chicken Taquitos",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Avocado Tacos",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Fried Zucchini",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Beet and Avocado Salad**",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Crispy Crab Bites",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Crab Wontons",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Mojito",
+   "Price": 8.5
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Long Island Iced Tea",
+   "Price": 8.5
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Margarita",
+   "Price": 8.5
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "J.W.'s Pink Lemonade™",
+   "Price": 8.5
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Whiskey Smash",
+   "Price": 8.5
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Selected Well Drinks",
+   "Price": 8.5
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Selected Wines by the Glass",
+   "Price": 8.5
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Selected Draft Beers",
+   "Price": 5
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Tuesday",
+   "Time": "Happy Hour",
+   "Item": "Selected Bottled Beers",
+   "Price": 4
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Roadside Sliders",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Tex Mex Eggrolls",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Fried Calamari",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Factory Nachos",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Pretzel Bites with Cheddar Cheese Fondue",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Hot Spinach and Cheese Dip",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Sweet Corn Tamale Cakes**",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Avocado Eggrolls",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Chicken Pot Stickers",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Thai Chili Shrimp",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Buffalo Blasts®",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Housemade Meatballs",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Fried Macaroni and Cheese",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Happy Hour",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Street Corn",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Korean Fried Cauliflower",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Stuffed Mushrooms",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Crispy Brussels Sprouts",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Cheeseburger Spring Rolls",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Crispy Fried Cheese",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Chicken Taquitos",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Avocado Tacos",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Fried Zucchini",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Beet and Avocado Salad**",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Crispy Crab Bites",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Crab Wontons",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Mojito",
+   "Price": 8.5
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Long Island Iced Tea",
+   "Price": 8.5
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Margarita",
+   "Price": 8.5
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "J.W.'s Pink Lemonade™",
+   "Price": 8.5
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Whiskey Smash",
+   "Price": 8.5
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Selected Well Drinks",
+   "Price": 8.5
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Selected Wines by the Glass",
+   "Price": 8.5
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Selected Draft Beers",
+   "Price": 5
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Wednesday",
+   "Time": "Happy Hour",
+   "Item": "Selected Bottled Beers",
+   "Price": 4
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Roadside Sliders",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Tex Mex Eggrolls",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Fried Calamari",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Factory Nachos",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Pretzel Bites with Cheddar Cheese Fondue",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Hot Spinach and Cheese Dip",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Sweet Corn Tamale Cakes**",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Avocado Eggrolls",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Chicken Pot Stickers",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Thai Chili Shrimp",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Buffalo Blasts®",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Housemade Meatballs",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Fried Macaroni and Cheese",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Happy Hour",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Street Corn",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Korean Fried Cauliflower",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Stuffed Mushrooms",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Crispy Brussels Sprouts",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Cheeseburger Spring Rolls",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Crispy Fried Cheese",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Chicken Taquitos",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Avocado Tacos",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Fried Zucchini",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Beet and Avocado Salad**",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Crispy Crab Bites",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Crab Wontons",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Mojito",
+   "Price": 8.5
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Long Island Iced Tea",
+   "Price": 8.5
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Margarita",
+   "Price": 8.5
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "J.W.'s Pink Lemonade™",
+   "Price": 8.5
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Whiskey Smash",
+   "Price": 8.5
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Selected Well Drinks",
+   "Price": 8.5
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Selected Wines by the Glass",
+   "Price": 8.5
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Selected Draft Beers",
+   "Price": 5
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Thursday",
+   "Time": "Happy Hour",
+   "Item": "Selected Bottled Beers",
+   "Price": 4
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Roadside Sliders",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Tex Mex Eggrolls",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Fried Calamari",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Factory Nachos",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Pretzel Bites with Cheddar Cheese Fondue",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Hot Spinach and Cheese Dip",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Sweet Corn Tamale Cakes**",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Avocado Eggrolls",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Chicken Pot Stickers",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Thai Chili Shrimp",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Buffalo Blasts®",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Housemade Meatballs",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Fried Macaroni and Cheese",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Happy Hour",
+   "Price": 10
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Street Corn",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Korean Fried Cauliflower",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Stuffed Mushrooms",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Crispy Brussels Sprouts",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Cheeseburger Spring Rolls",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Crispy Fried Cheese",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Chicken Taquitos",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Avocado Tacos",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Fried Zucchini",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Beet and Avocado Salad**",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Crispy Crab Bites",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Crab Wontons",
+   "Price": 9
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Mojito",
+   "Price": 8.5
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Long Island Iced Tea",
+   "Price": 8.5
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Margarita",
+   "Price": 8.5
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "J.W.'s Pink Lemonade™",
+   "Price": 8.5
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Whiskey Smash",
+   "Price": 8.5
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Selected Well Drinks",
+   "Price": 8.5
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Selected Wines by the Glass",
+   "Price": 8.5
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Selected Draft Beers",
+   "Price": 5
+ },
+ {
+   "Restaurants": "Cheesecake Factory",
+   "Day": "Friday",
+   "Time": "Happy Hour",
+   "Item": "Selected Bottled Beers",
+   "Price": 4
+ }
+]

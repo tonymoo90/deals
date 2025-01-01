@@ -1,0 +1,170 @@
+[
+ {
+   "Name": "Gia Mia",
+   "Type": "Lunch",
+   "Category": "All",
+   "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+   "start": "11:00 AM",
+   "end": "3:00 PM"
+ },
+ {
+   "Name": "Warrens Ale House",
+   "Type": "Daily",
+   "Category": "All",
+   "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+   "start": "11:00 AM",
+   "end": "11:00 PM"
+ },
+ {
+   "Name": "Uncle Julios",
+   "Type": "Daily",
+   "Category": "All",
+   "Days": "Tuesday",
+   "start": "11:00 AM",
+   "end": "9:00 PM"
+ },
+ {
+   "Name": "Ginos East",
+   "Type": "Lunch",
+   "Category": "All",
+   "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+   "start": "11:00 AM",
+   "end": "3:00 PM"
+ },
+ {
+   "Name": "Ground Level 105",
+   "Type": "Happy Hour",
+   "Category": "All",
+   "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+   "start": "2:00 PM",
+   "end": "5:00 PM"
+ },
+ {
+   "Name": "Weber Grill",
+   "Type": "Happy Hour",
+   "Category": "All",
+   "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+   "start": "3:00 PM",
+   "end": "6:00 PM"
+ },
+ {
+   "Name": "Roka Akur",
+   "Type": "Happy Hour",
+   "Category": "All",
+   "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+   "start": "3:30 PM",
+   "end": "5:00 PM"
+ },
+ {
+   "Name": "Redstone American Grill",
+   "Type": "Happy Hour",
+   "Category": "All",
+   "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+   "start": "3:00 PM",
+   "end": "6:00 PM"
+ },
+ {
+   "Name": "Brooks Kitchen & Tap",
+   "Type": "Happy Hour",
+   "Category": "All",
+   "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+   "start": "3:00 PM",
+   "end": "6:00 PM"
+ },
+ {
+   "Name": "Mortons",
+   "Type": "Happy Hour",
+   "Category": "All",
+   "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+   "start": "4:00 PM",
+   "end": "6:00 PM"
+ },
+ {
+   "Name": "Mortons",
+   "Type": "Happy Hour",
+   "Category": "All",
+   "Days": "Saturday",
+   "start": "4:00 PM",
+   "end": "6:30 PM"
+ },
+ {
+   "Name": "Blanco",
+   "Type": "Happy Hour",
+   "Category": "All",
+   "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+   "start": "3:00 PM",
+   "end": "6:00 PM"
+ },
+ {
+   "Name": "Ditkas",
+   "Type": "Happy Hour",
+   "Category": "All",
+   "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+   "start": "3:00 PM",
+   "end": "5:30 PM"
+ },
+ {
+   "Name": "Kona Grill",
+   "Type": "Late Night",
+   "Category": "Drinks",
+   "Days": "Monday, Tuesday, Wednesday, Thursday",
+   "start": "9:00 PM",
+   "end": "10:00 PM"
+ },
+ {
+   "Name": "Kona Grill",
+   "Type": "Happy Hour",
+   "Category": "Drinks",
+   "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+   "start": "4:00 PM",
+   "end": "6:00 PM"
+ },
+ {
+   "Name": "Kona Grill",
+   "Type": "Late Night",
+   "Category": "Food",
+   "Days": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
+   "start": "9:00 PM",
+   "end": "12:00 AM"
+ },
+ {
+   "Name": "Kona Grill",
+   "Type": "Happy Hour",
+   "Category": "Food",
+   "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+   "start": "2:00 PM",
+   "end": "6:00 PM"
+ },
+ {
+   "Name": "PF Changs",
+   "Type": "Happy Hour",
+   "Category": "All",
+   "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+   "start": "4:00 PM",
+   "end": "7:00 PM"
+ },
+ {
+   "Name": "Uncles Julios",
+   "Type": "Happy Hour",
+   "Category": "All",
+   "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+   "start": "3:00 PM",
+   "end": "6:00 PM"
+ },
+ {
+   "Name": "Yardhouse",
+   "Type": "Happy Hour",
+   "Category": "All",
+   "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+   "start": "3:00 PM",
+   "end": "6:00 PM"
+ },
+ {
+   "Name": "Cheesecake Factory",
+   "Type": "Happy Hour",
+   "Category": "All",
+   "Days": "Monday, Tuesday, Wednesday, Thursday, Friday",
+   "start": "4:00 PM",
+   "end": "6:00 PM"
+ }
+]
