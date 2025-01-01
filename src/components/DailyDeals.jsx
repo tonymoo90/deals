@@ -61,14 +61,18 @@ const DailyDeals = () => {
 
   // ... rest of the component remains the same as before ...
   const getRestaurantDeals = (restaurantName, type) => {
+    console.log("Deals:", deals); // Add this to debug
     return deals.filter(deal => 
       deal.Restaurants === restaurantName && 
-      (type === "Daily" ? deal.Time === "ALL" : deal.Time === type)
+      ((type === "Daily" && deal.Time === "ALL") || deal.Time === type)
     );
   };
 
   const getRestaurantsForSection = (type) => {
-    const relevantSchedules = schedules.filter(s => s.Type === type);
+    console.log("Schedules:", schedules); // Add this to debug
+    const relevantSchedules = schedules.filter(s => 
+      (type === "Daily" ? s.Type === "Daily" : s.Type === type)
+    );
     const filteredRestaurants = restaurants.filter(r => 
       relevantSchedules.some(s => s.Name === r.Restaurants)
     );
