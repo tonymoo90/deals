@@ -103,6 +103,7 @@ const DailyDeals = () => {
 
     return (
       <div className="mb-8">
+        <h2 className="text-xl font-bold mb-4">{title}</h2>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
           {sectionRestaurants.map((restaurant) => {
             const restaurantSchedule = schedules.find(s => 
