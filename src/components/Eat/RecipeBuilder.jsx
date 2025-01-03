@@ -45,9 +45,24 @@ const RecipeBuilder = () => {
   }, [selectedIngredients]);
 
   const addIngredient = (ingredient: Ingredient) => {
-    setSelectedIngredients([...selectedIngredients, { ...ingredient, amount: 1 }]);
-  };
+    setSelectedIngredients((prev) => {
+      // Check if the ingredient is already selected
+      const existingIngredient = prev.find((ing) => ing.id === ingredient.id);
 
+      if (existingIngredient) {
+        // Update the amount if the ingredient already exists
+        return prev.map((ing) =>
+          ing.id === ingredient.id
+            ? { ...ing, amount: ing.amount + 1 }
+            : ing
+        );
+      }
+
+      // Add the ingredient if it doesn't exist
+      return [...prev, { ...ingredient, amount: 1 }];
+    });
+  };
+  
   const updateAmount = (id: number, amount: number) => {
     setSelectedIngredients(prev =>
       prev.map(ing => ing.id === id ? { ...ing, amount } : ing)
@@ -55,7 +70,7 @@ const RecipeBuilder = () => {
   };
 
   const removeIngredient = (id: number) => {
-    setSelectedIngredients(prev => prev.filter(ing => ing.id !== id));
+    setSelectedIngredients((prev) => prev.filter(ing => ing.id !== id));
   };
 
   const data = [
@@ -84,16 +99,22 @@ const RecipeBuilder = () => {
                 <h3 className="text-lg font-semibold capitalize mb-2">{category}s</h3>
                 <div className="grid grid-cols-2 gap-2">
                   {ingredients
-                    .filter(i => i.category === category)
-                    .map(ingredient => (
-                      <button
-                        key={ingredient.id}
-                        onClick={() => addIngredient(ingredient)}
-                        className="p-2 bg-gray-100 rounded hover:bg-gray-200"
-                      >
-                        {ingredient.name}
-                      </button>
-                    ))}
+                    .filter((i) => i.category === category)
+                    .map((ingredient) => {
+                      const isSelected = selectedIngredients.some((ing) => ing.id === ingredient.id);
+                      return (
+                        <button
+                          key={ingredient.id}
+                          onClick={() => addIngredient(ingredient)}
+                          className={`p-2 rounded hover:bg-gray-200 ${
+                            isSelected ? 'bg-green-200 border border-green-400' : 'bg-gray-100'
+                          }`}
+                        >
+                          <span>{ingredient.name}</span>
+                          <span className="text-sm text-gray-500">({ingredient.servingSize})</span>
+                        </button>
+                      );
+                    })}
                 </div>
               </div>
             ))}
@@ -101,34 +122,41 @@ const RecipeBuilder = () => {
 
           <div className="mt-8">
             <h3 className="text-lg font-semibold mb-2">Selected Ingredients</h3>
-            <div className="space-y-2">
-              {selectedIngredients.map(ingredient => (
-                <div 
-                  key={ingredient.id} 
-                  className="flex justify-between items-center p-2 bg-gray-50 rounded"
-                >
-                  <div className="flex items-center gap-2">
-                    <span>{ingredient.name}</span>
-                    <span className="text-sm text-gray-500">({ingredient.servingSize})</span>
-                    <input
-                      type="number"
-                      min="0"
-                      step="1"
-                      value={ingredient.amount}
-                      onChange={(e) => updateAmount(ingredient.id, parseFloat(e.target.value))}
-                      className="w-20 p-1 border rounded"
-                    />
-                    <span>{ingredient.unit}</span>
-                  </div>
-                  <button 
-                    onClick={() => removeIngredient(ingredient.id)}
-                    className="text-red-500 hover:text-red-700"
+            {selectedIngredients.length > 0 ? (
+              <div className="space-y-2">
+                {selectedIngredients.map((ingredient) => (
+                  <div
+                    key={ingredient.id}
+                    className="flex justify-between items-center p-2 bg-gray-50 rounded"
                   >
-                    Remove
-                  </button>
-                </div>
-              ))}
-            </div>
+                    <div className="flex items-center gap-2">
+                      <span>{ingredient.name}</span>
+                      <span className="text-sm text-gray-500">({ingredient.servingSize})</span>
+                      <input
+                        type="number"
+                        min="0"
+                        step="1"
+                        value={ingredient.amount}
+                        onChange={(e) =>
+                          updateAmount(ingredient.id, parseFloat(e.target.value))
+                        }
+                        className="w-20 p-1 border rounded"
+                      />
+                      <span>{ingredient.unit}</span>
+                    </div>
+                    <button
+                      onClick={() => removeIngredient(ingredient.id)}
+                      className="text-red-500 hover:text-red-700"
+                    >
+                      Remove
+                    </button>
+                  </div>
+                ))}
+              </div>
+
+            ) : (
+              <p className="text-gray-500">No ingredients selected</p>
+            )}
           </div>
         </div>
 
