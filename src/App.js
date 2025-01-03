@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 import { BrowserRouter, Routes, Route, Link } from 'react-router-dom';
 import DailyDeals from './components/Eat/DailyDeals';
-import RecipeBuilder from './components/Eat/RecipeBuilder.jsx';
+import RecipeBuilder from './components/Eat/RecipeBuilder.tsx';
 
 
 function App() {
