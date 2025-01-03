@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Card, CardHeader, CardTitle, CardContent } from '../components/ui/card';
+import { Card, CardHeader, CardTitle, CardContent } from '../../components/ui/card';
 import { ChevronDown, ChevronUp, Clock, MapPin } from 'lucide-react';
 
 const DailyDeals = () => {
@@ -15,9 +15,9 @@ const DailyDeals = () => {
   useEffect(() => {
     const loadData = async () => {
       const [restaurantData, scheduleData, dealsData] = await Promise.all([
-        import('../data/restaurants.json'),
-        import('../data/schedule.json'), 
-        import('../data/specials.json')
+        import('../../data/restaurants.json'),
+        import('../../data/schedule.json'), 
+        import('../../data/specials.json')
       ]);
       
       setRestaurants(restaurantData.default);
@@ -64,7 +64,7 @@ const DailyDeals = () => {
     console.log("Deals:", deals); // Add this to debug
     return deals.filter(deal => 
       deal.Restaurants === restaurantName && 
-      ((type === "Daily" && deal.Time === "ALL") || deal.Time === type)
+      ((type === "Daily" && deal.Time === "All") || deal.Time === type)
     );
   };
 
