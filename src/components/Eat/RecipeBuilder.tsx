@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { RadarChart, PolarGrid, PolarAngleAxis, PolarRadiusAxis, Radar } from 'recharts';
-import type { Ingredient } from './types.ts';
+import type { Ingredient } from './types';
 import { ingredients } from './ingredients.ts'
 
 interface SelectedIngredient extends Ingredient {
