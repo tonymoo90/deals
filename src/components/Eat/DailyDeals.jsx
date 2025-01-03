@@ -50,7 +50,7 @@ const DailyDeals = () => {
           onClick={() => setSelectedDay(day)}
           className={`px-4 py-2 rounded-full whitespace-nowrap
             ${day === selectedDay ? 'bg-blue-500 text-white' : 'bg-gray-200'}
-            ${day === today ? 'border-2 border-green-500' : ''}
+            ${day === today ? 'border-2 border-blue-500' : ''}
           `}
         >
           {day}
